@@ -1,1 +1,1 @@
-This is the Task 1 for the CodeAlpha November Batch Web-Development Internship.
+This repo contains 3 Tasks in total for the CodeAlpha November Batch Web-Development Internship.
